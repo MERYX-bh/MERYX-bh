@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meriem Baha</h1>
 <h3 align="center">A passionate frontend developer and Machine learning enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meryx-bh" alt="meryx-bh" /></a> </p>
-
 - 🔭 I’m currently working on **frontend developement and machine learning projects**
 
 - 💬 Ask me about **frontend developement, deep learning and computer vision.**
