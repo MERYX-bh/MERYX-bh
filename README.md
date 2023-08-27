@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **frontend developement, deep learning and computer vision.**
 
-- Here's my portfolio <a href="https://linkedin.com/in/meriem-baha-6596411aa" target="blank">Portfolio</a>, Give it a look
+- Here's my portfolio <a href="https://portflio-sepia.vercel.app/" target="blank">Portfolio</a>, Give it a look
 
 - 📫 How to reach me **jm_baha@esi.dz**
 
