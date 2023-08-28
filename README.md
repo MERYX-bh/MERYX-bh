@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **frontend developement, deep learning and computer vision.**
 
-- Here's my portfolio <a href="https://portflio-sepia.vercel.app/" target="blank">Portfolio</a>, Give it a look
-
 - 📫 How to reach me **jm_baha@esi.dz**
 
 <h3 align="left">Connect with me:</h3>
