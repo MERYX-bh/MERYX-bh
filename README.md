@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **frontend developement, deep learning and computer vision.**
 
+- 💬 I am currently learning about *Data engenieering.**
+
 - 📫 How to reach me **jm_baha@esi.dz**
 
 <h3 align="left">Connect with me:</h3>
