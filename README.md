@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meriem Baha</h1>
-<h3 align="center">A passionate FullStack developer and Machine learning enthusiast</h3>
+<h3 align="center">A passionate FullStack web developer and Machine learning enthusiast</h3>
 
 - 🔭 I’m currently working on **FullStack web developement and machine learning projects**
 
