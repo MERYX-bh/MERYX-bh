@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meriem Baha</h1>
-<h3 align="center">A passionate frontend developer and Machine learning enthusiast</h3>
+<h3 align="center">A passionate FullStack developer and Machine learning enthusiast</h3>
 
-- 🔭 I’m currently working on **frontend developement and machine learning projects**
+- 🔭 I’m currently working on **FullStack web developement and machine learning projects**
 
 - 💬 Ask me about **frontend developement, deep learning and computer vision.**
 
