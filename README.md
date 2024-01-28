@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **frontend developement, deep learning and computer vision.**
 
-- 💬 I am currently learning about **Data engenieering.**
+- 💬 I am currently learning about **LLM's and IOT.**
 
 - 📫 How to reach me **jm_baha@esi.dz**
 
