@@ -81,33 +81,8 @@ This work proposes a hybrid deep learning pipeline that integrates Gaussian beat
 ### 🔥 Personal ML Engineering Projects
 - Multimodal RAG assistant (vector DB + embeddings + LLM)  
 - Data engineering workflows for structured/unstructured data  
-- Streamlit dashboards for ML monitoring  
+- ML monitoring  
 - End-to-end deep learning training pipelines
-
----
-
-## 👩‍💻 Skills & Tools  
-
-### **Languages**
-Python • R • SQL • Bash • PowerShell  
-
-### **Machine Learning**
-Scikit-learn • PyTorch • TensorFlow • MLflow • Transformers • Time-series models
-
-### **Deep Learning & Signals**
-CNN • LSTM • Transformers • Attention Mechanisms • Signal Processing • Gaussian Modelling  
-
-### **Data Engineering**
-Pandas • NumPy • PyMuPDF • OCR (Tesseract/Paddle) • MQTT • Pipelines • Streamlit  
-
-### **Databases**
-PostgreSQL • MySQL • SQLite • MongoDB  
-
-### **Cloud & Deployment**
-Docker • FastAPI • Flask • Jenkins • GCP • AWS • Azure  
-
-### **Visualization & Reporting**
-Power BI • Tableau • Looker Studio • Excel (advanced)
 
 ---
 
@@ -130,9 +105,11 @@ Power BI • Tableau • Looker Studio • Excel (advanced)
 
 ## 🤝 I’m looking to collaborate on  
 - Applied Machine Learning research  
-- Biomedical signal analysis  
-- IoT + ML hybrid systems  
-- Advanced deep learning architectures  
+- Large Language Models (LLMs) & Generative AI systems
+- RAG pipelines & enterprise search solutions
+- End-to-end ML & Data Engineering workflows
+- Scalable AI/ML systems for production
+- Advanced Deep Learning architectures (CNN, LSTM, Transformers) 
 
 ---
 
