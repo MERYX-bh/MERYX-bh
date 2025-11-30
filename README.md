@@ -14,6 +14,7 @@
 </div>
 
 ---
+<img width="750" height="674" alt="image" src="https://github.com/user-attachments/assets/cbc96f22-697b-43b2-ad95-0d1b8a2813d5" />
 
 ## 🌟 Background  
 I’m Meriem, a Machine Learning researcher and Data Scientist currently pursuing a  
