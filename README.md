@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Meriem Baha</h2>
-<h3 align="center">Machine Learning & NLP Researcher | Data Scientist | AI Developer</h3>
+<h3 align="center">Machine Learning Researcher | Data Scientist | AI Developer</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Meriem-Baha" target="_blank">
@@ -16,117 +16,131 @@
 ---
 
 ## 🌟 Background  
-I’m Meriem, a Machine Learning & NLP enthusiast currently pursuing a **Master 2 in Machine Learning and Data Science** at **Université Paris Cité**.  
-My work blends **AI, NLP, RAG systems, IoT data pipelines and Deep Learning**, with a strong interest in transforming complex data into actionable insights.
+I’m Meriem, a Machine Learning researcher and Data Scientist currently pursuing a  
+**Master 2 in Machine Learning & Data Science** at **Université Paris Cité**, France.
 
-I combine **academic research**, **industry experience**, and **teaching impact** through my work with students and professionals in France and internationally.
+My interests lie in **Deep Learning**, **LLMs**, **IoT data pipelines**, **multivariate signal analysis**, and **applied AI in real-world environments**.  
+I enjoy building systems that combine **research depth** with **industry-grade engineering**.
 
-Here’s a glimpse of my path:
+Here’s a snapshot of my path so far:
 
 - 🎓 **Master 2 – Machine Learning & Data Science**, Université Paris Cité *(2025 – current)*  
 - 🎓 **Master 2 – Artificial Intelligence**, ENSIA (ESI Alger) *(2021–2024)*  
-- 🤖 **Data Scientist Intern – LLM Document Intelligence**, TotalEnergies, Paris *(2025)*  
-- 📡 **R&D Data Scientist – IoT Healthcare**, CERIST *(2024)*  
-- 📈 **Data Scientist – Forecasting**, Ooredoo *(2023)*  
-- 🧑‍🏫 **Freelance Instructor – Data & BI** *(2023–present)*  
-- 📝 **Published Researcher — IEEE 2024**  
-  > **“DermoXTrack: A Dermatological Skin Lesion Detection Solution Using Deep Learning”**  
-  > 🔗 https://ieeexplore.ieee.org/document/10822889
+- 🤖 **Data Scientist – LLM-based Document Intelligence**, TotalEnergies (Paris, 2025)  
+- 📡 **R&D Data Scientist – IoT Medical Sensors**, CERIST (2024)  
+- 📈 **Data Scientist – Forecasting & Reporting**, Ooredoo (2023)  
+- 📝 **Published IEEE Research (2024) – ECG Arrhythmia Detection with DL + Gaussian Models**  
+- 🔬 Builder of ML, DL & IoT end-to-end prototypes for real-world use cases  
 
 ---
 
-## 📝 Research & Projects  
+## 📝 Research  
 
-My work spans **NLP**, **RAG**, **Deep Learning**, **IoT analytics**, and **ML interpretability**.
+My research focuses on:
 
-### 🔬 Current Focus  
-- **LLM Document Intelligence (PDF, PPTX, OCR, pipelines)**  
-  Using LangChain + OCR + retrieval systems for enterprise search.  
-- **Generative AI & RAG Systems**  
-  Intelligent assistants connected to structured and unstructured data.  
-- **Healthcare IoT Analytics**  
-  Detecting medical anomalies from multivariate sensor data (ECG/SpO2).  
+- **Deep learning for biomedical signals**  
+- **Transformer-based and hybrid CNN/LSTM architectures**  
+- **Multivariate IoT sensor analysis & anomaly detection**  
+- **Gaussian modelling & probabilistic approaches in ML**  
+- **Efficient ML systems for real-time monitoring**
 
-### 📚 Research Paper  
-📄 *DermoXTrack: A Dermatological Skin Lesion Detection Solution Using Deep Learning*  
-Published in **IEEE**, 2024.  
-Explores CNN-based automatic diagnosis pipelines for dermatology images.
+### 📄 IEEE Published Paper (2024)  
+**Integrating Deep Learning for Comprehensive Detection and Optimization of ECG-Based Arrhythmia Using Gaussian Function Model**  
+Authors: *Sahar Boulkaboul, Meriem Baha, Medjda Rihab Slimani*  
+📍 *IEEE HONET 2024 — Doha, Qatar*  
+🔗 https://ieeexplore.ieee.org/document/10822889
 
-### 🔧 Past Projects  
-- **IoT Analytics Platform for Medical Sensors**  
-  ML pipelines, anomaly detection, MQTT streaming, Raspberry Pi deployment.  
-- **LSTM-based Forecasting Platform**  
-  Predicting telecom demand, dashboards with Streamlit.  
-- **RAG Knowledge Assistant (Personal Project)**  
-  Vector DB, custom embeddings, retrieval augmentation for domain knowledge.
+**Keywords:**  
+CNN • LSTM • Transformers • Channel Attention • Gaussian Functions • ECG Signals  
+This work proposes a hybrid deep learning pipeline that integrates Gaussian beat modelling with attention-based neural networks for robust arrhythmia detection.
 
 ---
 
-## 👩‍💻 Code & Tools  
+## 🚀 Projects & Work
 
-### **Languages**  
-Python • R • SQL • Bash • PowerShell
+### 🔥 LLM Document Intelligence (TotalEnergies, 2025)
+- Automated analysis of **PDF, PPTX and Excel** documents at scale  
+- OCR pipelines (Tesseract / PaddleOCR)  
+- Retrieval-based enhancement using LLMs  
+- Built a **Streamlit dashboard** for KPI monitoring  
+**Stack:** Python, LangChain, OCR, GCP, Dataiku, Streamlit
 
-### **Machine Learning & NLP**  
-Scikit-learn • PyTorch • TensorFlow • HuggingFace • LangChain • OpenAI • Mistral • LLMs • RAG
+### 🔥 IoT Healthcare Anomaly Detection (CERIST, 2024)
+- Built ML pipelines for **ECG/SpO2** sensor data  
+- Automated data quality checks on Raspberry Pi  
+- Deep learning for abnormal pattern detection  
+**Stack:** PyTorch, FastAPI, MQTT, MongoDB, Streamlit
 
-### **Data Engineering**  
-Pandas • NumPy • PyMuPDF • PDFPlumber • OCR (Tesseract, PaddleOCR) • Airflow basics
+### 🔥 Telecom Time-Series Forecasting (Ooredoo, 2023)
+- LSTM prediction models for call volume forecasting  
+- SQL pipelines for reusable datasets  
+- Interactive reporting dashboards  
+**Stack:** Python, SQL, TensorFlow, Streamlit
 
-### **Visualization & BI**  
-Power BI • Excel (advanced) • Looker Studio • Tableau
+### 🔥 Personal ML Engineering Projects
+- Multimodal RAG assistant (vector DB + embeddings + LLM)  
+- Data engineering workflows for structured/unstructured data  
+- Streamlit dashboards for ML monitoring  
+- End-to-end deep learning training pipelines
 
-### **Databases**  
-PostgreSQL • MySQL • MongoDB • SQLite
+---
 
-### **Deployment & DevOps**  
-Docker • Streamlit • Flask • FastAPI • MLflow • Jenkins
+## 👩‍💻 Skills & Tools  
 
-### **Cloud**  
-AWS • Azure • Google Cloud Platform (GCP)
+### **Languages**
+Python • R • SQL • Bash • PowerShell  
+
+### **Machine Learning**
+Scikit-learn • PyTorch • TensorFlow • MLflow • Transformers • Time-series models
+
+### **Deep Learning & Signals**
+CNN • LSTM • Transformers • Attention Mechanisms • Signal Processing • Gaussian Modelling  
+
+### **Data Engineering**
+Pandas • NumPy • PyMuPDF • OCR (Tesseract/Paddle) • MQTT • Pipelines • Streamlit  
+
+### **Databases**
+PostgreSQL • MySQL • SQLite • MongoDB  
+
+### **Cloud & Deployment**
+Docker • FastAPI • Flask • Jenkins • GCP • AWS • Azure  
+
+### **Visualization & Reporting**
+Power BI • Tableau • Looker Studio • Excel (advanced)
 
 ---
 
 ## 🏆 Achievements  
-- 🎓 **Author of IEEE Published Research** (2024)  
-- 🎖 **AWS Solutions Architect – Associate (2024)**  
-- 🧑‍🏫 **50+ students coached** in Data Science, BI & AI  
-- 📊 Created multiple **end-to-end ML pipelines** for industry use  
-- 🧪 Built IoT & LLM prototypes used by research teams
-
----
-
-## 🌍 Impact  
-I’m committed to making **AI and Data Science accessible**, especially for young learners and practitioners.  
-I share knowledge through:
-
-- ✨ Private coaching (France & International)  
-- 🛠 Open-source projects on GitHub  
-- 📚 Teaching materials and case studies  
+- 📝 **Published IEEE Author — HONET 2024**  
+- 🎓 **AWS Solutions Architect – Associate (2024)**  
+- 🔬 Built multiple research-backed DL & IoT systems  
+- 📊 Designed complete ML pipelines deployed in real settings  
+- 💡 Strong ability to bridge engineering with applied research  
 
 ---
 
 ## 🔭 I’m currently working on  
-- NLP, LLMs & RAG-based tools  
-- Data engineering workflows  
-- Advanced deep learning for signal and text data  
-- Cloud architectures for ML pipelines  
+- Deep learning for complex signal data  
+- ML pipeline engineering & automation  
+- Real-world LLM applications  
+- Cloud-based ML deployment
 
 ---
 
 ## 🤝 I’m looking to collaborate on  
-- NLP & LLM applied research  
-- Healthcare AI projects  
-- Scalable ML systems  
-- Data engineering for complex real-world pipelines  
+- Applied Machine Learning research  
+- Biomedical signal analysis  
+- IoT + ML hybrid systems  
+- Advanced deep learning architectures  
 
 ---
 
-## 📝 I regularly write & share insights  
-📌 Medium: *coming soon*  
-📌 GitHub Projects: https://github.com/MERYX-bh  
+## 📫 Let’s Connect  
+💼 LinkedIn: https://www.linkedin.com/in/Meriem-Baha  
+💻 GitHub: https://github.com/MERYX-bh  
+📧 Email: meriembaha2611@gmail.com  
 
 ---
 
-Thank you for stopping by! ✨  
-Always happy to connect, collaborate or discuss exciting AI ideas 🚀
+Thanks for visiting my profile! ✨  
+Always happy to discuss ML, AI systems, research and real-world applications 🚀
