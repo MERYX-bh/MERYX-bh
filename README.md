@@ -28,7 +28,7 @@ Here’s a glimpse of my path:
 - 🤖 **Data Scientist Intern – LLM Document Intelligence**, TotalEnergies, Paris *(2025)*  
 - 📡 **R&D Data Scientist – IoT Healthcare**, CERIST *(2024)*  
 - 📈 **Data Scientist – Forecasting**, Ooredoo *(2023)*  
-- 🧑‍🏫 **Freelance Instructor – Data & BI**, Superprof *(2023–present)*  
+- 🧑‍🏫 **Freelance Instructor – Data & BI** *(2023–present)*  
 - 📝 **Published Researcher — IEEE 2024**  
   > **“DermoXTrack: A Dermatological Skin Lesion Detection Solution Using Deep Learning”**  
   > 🔗 https://ieeexplore.ieee.org/document/10822889
