@@ -1,25 +1,132 @@
-<h1 align="center">Hi 👋, I'm Meriem Baha</h1>
-<h3 align="center">A passionate Machine learning enthusiast</h3>
+<h2 align="center">Hi 👋, I'm Meriem Baha</h2>
+<h3 align="center">Machine Learning & NLP Researcher | Data Scientist | AI Developer</h3>
 
-- 🔭 I’m currently working on **Machine learning projects**
+<div align="center">
+  <a href="https://www.linkedin.com/in/Meriem-Baha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:meriembaha2611@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/MERYX-bh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
-- 💬 Ask me about **frontend developement, deep learning and computer vision.**
+---
 
-- 💬 I am currently learning about **LLM's and IOT.**
+## 🌟 Background  
+I’m Meriem, a Machine Learning & NLP enthusiast currently pursuing a **Master 2 in Machine Learning and Data Science** at **Université Paris Cité**.  
+My work blends **AI, NLP, RAG systems, IoT data pipelines and Deep Learning**, with a strong interest in transforming complex data into actionable insights.
 
-- 📫 How to reach me **jm_baha@esi.dz**
+I combine **academic research**, **industry experience**, and **teaching impact** through my work with students and professionals in France and internationally.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meriem-baha-6596411aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meriem-baha-6596411aa" height="30" width="40" /></a>
-<a href="https://www.behance.net/meriembaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="meriembaha" height="30" width="40" /></a>
-</p>
+Here’s a glimpse of my path:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🎓 **Master 2 – Machine Learning & Data Science**, Université Paris Cité *(2025 – current)*  
+- 🎓 **Master 2 – Artificial Intelligence**, ENSIA (ESI Alger) *(2021–2024)*  
+- 🤖 **Data Scientist Intern – LLM Document Intelligence**, TotalEnergies, Paris *(2025)*  
+- 📡 **R&D Data Scientist – IoT Healthcare**, CERIST *(2024)*  
+- 📈 **Data Scientist – Forecasting**, Ooredoo *(2023)*  
+- 🧑‍🏫 **Freelance Instructor – Data & BI**, Superprof *(2023–present)*  
+- 📝 **Published Researcher — IEEE 2024**  
+  > **“DermoXTrack: A Dermatological Skin Lesion Detection Solution Using Deep Learning”**  
+  > 🔗 https://ieeexplore.ieee.org/document/10822889
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meryx-bh&show_icons=true&locale=en&layout=compact" alt="meryx-bh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meryx-bh&show_icons=true&locale=en" alt="meryx-bh" /></p>
+## 📝 Research & Projects  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meryx-bh&" alt="meryx-bh" /></p>
+My work spans **NLP**, **RAG**, **Deep Learning**, **IoT analytics**, and **ML interpretability**.
+
+### 🔬 Current Focus  
+- **LLM Document Intelligence (PDF, PPTX, OCR, pipelines)**  
+  Using LangChain + OCR + retrieval systems for enterprise search.  
+- **Generative AI & RAG Systems**  
+  Intelligent assistants connected to structured and unstructured data.  
+- **Healthcare IoT Analytics**  
+  Detecting medical anomalies from multivariate sensor data (ECG/SpO2).  
+
+### 📚 Research Paper  
+📄 *DermoXTrack: A Dermatological Skin Lesion Detection Solution Using Deep Learning*  
+Published in **IEEE**, 2024.  
+Explores CNN-based automatic diagnosis pipelines for dermatology images.
+
+### 🔧 Past Projects  
+- **IoT Analytics Platform for Medical Sensors**  
+  ML pipelines, anomaly detection, MQTT streaming, Raspberry Pi deployment.  
+- **LSTM-based Forecasting Platform**  
+  Predicting telecom demand, dashboards with Streamlit.  
+- **RAG Knowledge Assistant (Personal Project)**  
+  Vector DB, custom embeddings, retrieval augmentation for domain knowledge.
+
+---
+
+## 👩‍💻 Code & Tools  
+
+### **Languages**  
+Python • R • SQL • Bash • PowerShell
+
+### **Machine Learning & NLP**  
+Scikit-learn • PyTorch • TensorFlow • HuggingFace • LangChain • OpenAI • Mistral • LLMs • RAG
+
+### **Data Engineering**  
+Pandas • NumPy • PyMuPDF • PDFPlumber • OCR (Tesseract, PaddleOCR) • Airflow basics
+
+### **Visualization & BI**  
+Power BI • Excel (advanced) • Looker Studio • Tableau
+
+### **Databases**  
+PostgreSQL • MySQL • MongoDB • SQLite
+
+### **Deployment & DevOps**  
+Docker • Streamlit • Flask • FastAPI • MLflow • Jenkins
+
+### **Cloud**  
+AWS • Azure • Google Cloud Platform (GCP)
+
+---
+
+## 🏆 Achievements  
+- 🎓 **Author of IEEE Published Research** (2024)  
+- 🎖 **AWS Solutions Architect – Associate (2024)**  
+- 🧑‍🏫 **50+ students coached** in Data Science, BI & AI  
+- 📊 Created multiple **end-to-end ML pipelines** for industry use  
+- 🧪 Built IoT & LLM prototypes used by research teams
+
+---
+
+## 🌍 Impact  
+I’m committed to making **AI and Data Science accessible**, especially for young learners and practitioners.  
+I share knowledge through:
+
+- ✨ Private coaching (France & International)  
+- 🛠 Open-source projects on GitHub  
+- 📚 Teaching materials and case studies  
+
+---
+
+## 🔭 I’m currently working on  
+- NLP, LLMs & RAG-based tools  
+- Data engineering workflows  
+- Advanced deep learning for signal and text data  
+- Cloud architectures for ML pipelines  
+
+---
+
+## 🤝 I’m looking to collaborate on  
+- NLP & LLM applied research  
+- Healthcare AI projects  
+- Scalable ML systems  
+- Data engineering for complex real-world pipelines  
+
+---
+
+## 📝 I regularly write & share insights  
+📌 Medium: *coming soon*  
+📌 GitHub Projects: https://github.com/MERYX-bh  
+
+---
+
+Thank you for stopping by! ✨  
+Always happy to connect, collaborate or discuss exciting AI ideas 🚀
