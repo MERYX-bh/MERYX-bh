@@ -25,7 +25,7 @@ I enjoy building systems that combine **research depth** with **industry-grade e
 
 Here’s a snapshot of my path so far:
 
-- 🎓 **Master 2 – Machine Learning & Data Science**, Université Paris Cité *(2025 – current)*  
+- 🎓 **Master 2 – Machine Learning & Data Science**, Université Paris Cité *(2025 – 2026)*  
 - 🎓 **Master 2 – Artificial Intelligence**, ENSIA (ESI Alger) *(2021–2024)*  
 - 🤖 **Data Scientist – LLM-based Document Intelligence**, TotalEnergies (Paris, 2025)  
 - 📡 **R&D Data Scientist – IoT Medical Sensors**, CERIST (2024)  
